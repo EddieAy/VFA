@@ -1,0 +1,1 @@
+python train.py -e 40 -m 0
